@@ -1,6 +1,9 @@
-## Projects
+## In Progress
 
 - [ ] Ray Tracer
+
+## Projects
+
 - [ ] Figma or Excalidraw Clone
 - [ ] Text Editor
 - [ ] 2D Game
