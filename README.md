@@ -24,8 +24,8 @@
 
 ## Tutorials
 
-- [ ] [CI](https://aosabook.org/en/500L/a-continuous-integration-system.html)
 - [ ] [Package Manager](https://github.com/g-plane/tiny-package-manager/blob/master/README.md)
+- [ ] [Bundler](https://github.com/ronami/minipack)
 - [ ] [Malloc](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
 - [ ] [Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 - [ ] [Debugger](https://tartanllama.xyz/posts/writing-a-linux-debugger/setup/)
